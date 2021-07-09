@@ -1,6 +1,6 @@
 # small-projects
 
-##Pipeline
+## Pipeline
 
 Aim
 The purpose of this project is to design a circuit that demonstrates how a simple pipeline system works. The circuit receives four signals stores them and compare with respect to size and get the greater of all at the last stage of the pipeline along with the number of ones of the last compare.
